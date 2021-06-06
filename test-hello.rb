@@ -8,6 +8,6 @@ class TestHello < Formula
     version "1.0.0"
 
     def install
-        
+        ohai "Hello!"
     end
 end
