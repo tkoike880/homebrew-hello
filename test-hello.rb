@@ -3,7 +3,7 @@ class TestHello < Formula
     desc "Homebrew Testing Project"
     homepage ""  
     url "https://github.com/tkoike880/test-hello/archive/refs/tags/v1.0.0.zip"
-    sha256 "7e8d5d7c64c31b3d5b3768a69960d0c11b419bafb6f41c0ac2410ab85b56e1cb"
+    sha256 "b788832d3fea5f1eeffc41b6cd8dbfb6ec1616f232a6dda556d79088b8757014"
     license "MIT"
     version "1.0.0"
 
